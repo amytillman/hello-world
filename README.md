@@ -1,7 +1,5 @@
 # hello-world
-First repository
-testing this out for fun!
-Introductory pick up line: Did it hurt? When you fell from heaven.
+First repository- testing this out for fun!
 
 
 ## Goals:  
